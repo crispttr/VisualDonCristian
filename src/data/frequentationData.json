@@ -1,0 +1,3890 @@
+[
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 318000
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 227600
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 228800
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 296500
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 211000
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 261500
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 281900
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": 134000
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": 135000
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 95700
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 126400
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 126400
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 128400
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": 140000
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 144700
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 96600
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 135600
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 117900
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": 157000
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 159400
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 163600
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 160900
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 166300
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 102300
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 146600
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 49900
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 95000
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 46100
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 61000
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 52600
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 54900
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 76500
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 51900
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 61700
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 68200
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 70400
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 62800
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 61300
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 49600
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 67900
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 68600
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 61500
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 63600
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 64100
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 49700
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 58700
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 60300
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 39500
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 35300
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 31000
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 31100
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 30600
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 28000
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 43800
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 35700
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 42200
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 42400
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 177100
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 152400
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 149300
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 28900
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 30400
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 23500
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 26700
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 57200
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 42800
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 45200
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 30500
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 40400
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 45000
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 27600
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 33400
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 59700
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 57400
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 69700
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 21900
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 15500
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 39000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 49400
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 32900
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 50700
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 28700
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 95000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 84000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 73300
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 16100
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 34100
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 24100
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 99800
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 75700
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 103300
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 20600
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 14500
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": 437000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 460700
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 294600
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 286400
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 410700
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 277500
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 359400
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 313000
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 298900
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 299100
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 307000
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 134000
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 136200
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 119800
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 134900
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": 139000
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 142600
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 102700
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 125600
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 136000
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 140100
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": 160000
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 104700
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 102500
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 145400
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": 79000
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 81800
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 69100
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 71800
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 65100
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 72300
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 131100
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 82300
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 86200
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": 62000
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 66400
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 66400
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 67700
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 55600
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 57900
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 44200
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 43400
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 58000
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 63100
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 62700
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 60300
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 52500
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 55400
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 57200
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 67300
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 69400
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 53000
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 62300
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 51600
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 37500
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 32200
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 32800
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 31500
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 27900
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 41800
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 44400
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 45900
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 41100
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 45200
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 45300
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 44100
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 150700
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 171400
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 115600
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 171000
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 33400
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 33200
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 32600
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 33000
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 30400
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 30000
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 27100
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 76600
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 67800
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 35900
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 41700
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 64100
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 46900
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 52800
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 36900
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 24900
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 21900
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 22000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 48400
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 44100
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 42000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 43700
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 100000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 84500
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 89200
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 59600
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 14400
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 15700
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 14500
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 14900
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 17000
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 20100
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 31700
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 106000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 111700
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 84200
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 84500
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 113800
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 95200
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 25500
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 27900
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 24000
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 26200
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 7600
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 13100
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 437300
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 399000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 405200
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 410200
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 436300
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 330300
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 275700
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 303300
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 280600
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 148700
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 148500
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 132500
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 166300
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 102700
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 133600
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": 77000
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 78500
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 77800
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 77400
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 72900
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": 112000
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 128200
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 121400
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 134700
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 109200
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 105900
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 116200
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 120100
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 123000
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": 62000
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 63600
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 47700
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 59800
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 58900
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 60500
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 61300
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 56300
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 70700
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 56600
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 50200
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 45700
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 58000
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 58100
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 56400
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 52200
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 67000
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 37400
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 37700
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 39300
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 36300
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 35800
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 35900
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 28000
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 29500
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 34600
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 38400
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 28200
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 19300
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 19700
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 46700
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 20400
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 166200
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 141700
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 160600
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 104300
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 163400
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 33000
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 25000
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 21900
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 76400
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 68800
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 65900
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 62900
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 48700
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 30700
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 40500
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 0
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 42700
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 67100
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 49200
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 50700
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 0
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 20800
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 23200
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 24800
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 25300
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 18000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 20200
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 21400
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 19100
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 55100
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 37000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 0
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 47100
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 38700
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 99500
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 67900
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 68100
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 88000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 61000
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 13600
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 13600
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 25500
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 27200
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 23300
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 28100
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 104300
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 22300
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 27500
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 26000
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 10100
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 439000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 437700
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 389600
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 132900
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 124200
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 125800
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 135500
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 151500
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 117300
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 127900
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 94700
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 108300
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 167200
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 166900
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 131700
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 161900
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 145200
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 76300
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 121000
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 121000
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 117200
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 121200
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 91700
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 111200
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 109900
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 66100
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 63300
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 72400
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 72800
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 72100
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 68700
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 44700
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 57000
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 55600
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 41900
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 54600
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 65200
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 64800
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 61600
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 37200
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 37600
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 29700
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 35300
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 23300
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 25100
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 29900
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 28200
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 29500
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 21300
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 23100
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 30400
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 19500
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 36900
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 163200
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 156000
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 173100
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 166600
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 110000
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 165300
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 28600
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 30600
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 30200
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 26700
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 73200
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 73600
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 74700
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 51300
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 62900
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 64900
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 65100
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 68100
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 46400
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 43200
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 42400
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 39800
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 39400
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 28000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 56700
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 61600
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 0
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 0
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 59500
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 18100
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 17400
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 19800
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 15000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 0
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 42600
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 92000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 99100
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 75500
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 14600
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 14600
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 15400
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 11800
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 12600
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 11700
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 15200
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 26300
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 22100
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 15500
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 117400
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 77100
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 103800
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 22500
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 25900
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 6800
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 12000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 442900
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 411400
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 418000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 276000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 394500
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": 306000
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": 305000
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 323600
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 326300
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Bern",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 216000
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 134500
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 135400
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 92400
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 124000
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 140400
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 140900
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 86100
+  },
+  {
+    "bahnhof_gare_stazione": "Basel SBB",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 91700
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 130800
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 88700
+  },
+  {
+    "bahnhof_gare_stazione": "Lausanne",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 115800
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 163200
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 144100
+  },
+  {
+    "bahnhof_gare_stazione": "Luzern",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 158700
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 77300
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 0
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 54200
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 54100
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 73300
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "St. Gallen",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 50600
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": 115000
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Winterthur",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 111600
+  },
+  {
+    "bahnhof_gare_stazione": "Zug",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 76000
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 78600
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 64200
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 64400
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 63900
+  },
+  {
+    "bahnhof_gare_stazione": "Aarau",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 68300
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 62700
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 42100
+  },
+  {
+    "bahnhof_gare_stazione": "Baden",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 55400
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 63400
+  },
+  {
+    "bahnhof_gare_stazione": "Biel/Bienne",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 62700
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 31400
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 40300
+  },
+  {
+    "bahnhof_gare_stazione": "Chur",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 37600
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 30900
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 27700
+  },
+  {
+    "bahnhof_gare_stazione": "Fribourg/Freiburg",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 29500
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 40600
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 43000
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-A\u00e9roport",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": 43200
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 111700
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 155500
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 23600
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 29300
+  },
+  {
+    "bahnhof_gare_stazione": "Neuch\u00e2tel",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 52400
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 69600
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 46700
+  },
+  {
+    "bahnhof_gare_stazione": "Olten",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 62400
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 38900
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 37500
+  },
+  {
+    "bahnhof_gare_stazione": "Thun",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 37500
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 49300
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Altstetten",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 57600
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 23000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 24400
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Enge",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 21200
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 34300
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 50000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 29100
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Hardbr\u00fccke",
+    "unite": "DP/jour",
+    "jahr": "2024",
+    "anzahl_bahnhofbenutzer": 44400
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 81100
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 86800
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": 81000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 88200
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Stadelhofen",
+    "unite": "DP/jour",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 78900
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": 13700
+  },
+  {
+    "bahnhof_gare_stazione": "Bellinzona",
+    "unite": "DP/jour",
+    "jahr": "2020",
+    "anzahl_bahnhofbenutzer": 11000
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 24200
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 21700
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 30000
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Lugano",
+    "unite": "DP/jour",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 25600
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 113900
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour",
+    "jahr": "2014",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour",
+    "jahr": "2017",
+    "anzahl_bahnhofbenutzer": 94200
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich Oerlikon",
+    "unite": "DP/jour",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 105400
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2019",
+    "anzahl_bahnhofbenutzer": 28000
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour",
+    "jahr": "2018",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Uster",
+    "unite": "DP/jour",
+    "jahr": "2021",
+    "anzahl_bahnhofbenutzer": 20900
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2016",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 11200
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2023",
+    "anzahl_bahnhofbenutzer": 13400
+  },
+  {
+    "bahnhof_gare_stazione": "Gen\u00e8ve-Eaux-Vives",
+    "unite": "DP/jour",
+    "jahr": "2015",
+    "anzahl_bahnhofbenutzer": null
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": 429000
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour ouvr\u00e9",
+    "jahr": "2022",
+    "anzahl_bahnhofbenutzer": 367400
+  },
+  {
+    "bahnhof_gare_stazione": "Z\u00fcrich HB",
+    "unite": "DP/jour",
+    "jahr": "2013",
+    "anzahl_bahnhofbenutzer": null
+  }
+]

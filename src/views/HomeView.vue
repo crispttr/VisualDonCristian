@@ -9,6 +9,7 @@ import TheEmployees from '../components/TheEmployees.vue'
 import TheEmployeesRate from '../components/TheEmployeesRate.vue'
 import TheBoard from '../components/TheBoard.vue'
 import TheDelayStats from '../components/TheDelayStats.vue'
+import TheFrequentation from '../components/TheFrequentation.vue'
 </script>
 
 <template>
@@ -19,6 +20,7 @@ import TheDelayStats from '../components/TheDelayStats.vue'
   <TheMap />
   <TheAttendance />
   <TheMainStations />
+  <TheFrequentation />
   <TheMostCrowded />
   <TheEmployees />
 </template>
