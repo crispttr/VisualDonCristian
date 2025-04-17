@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section class="heatmap-wrapper">
     <div class="heatmap">
       <h3>Augmentation du nombre d’usager·ère·s (2020 - 2024)</h3>
 
@@ -25,19 +25,22 @@
         </template>
       </div>
 
-      <!-- 🧠 Tooltip custom -->
+      <!-- 🧠 Tooltip stylé -->
       <div
         v-if="tooltip.visible"
         class="tooltip"
         :style="{ top: tooltip.y + 'px', left: tooltip.x + 'px' }"
       >
-        {{ tooltip.content }}
+        <div class="tooltip-title">📍 {{ tooltip.content.gare }}</div>
+        <div>Année : {{ tooltip.content.year }}</div>
+        <div>Passagers : {{ tooltip.content.value }}</div>
       </div>
-      <!-- 🟡 Légende -->
+
+      <!-- 🟡 Légende (en bas) -->
       <div class="legend">
-        <span>Peu</span>
+        <span><strong>Peu</strong></span>
         <div class="legend-bar"></div>
-        <span>Beaucoup</span>
+        <span><strong>Beaucoup</strong></span>
       </div>
     </div>
   </section>
@@ -55,7 +58,11 @@ export default {
         visible: false,
         x: 0,
         y: 0,
-        content: '',
+        content: {
+          gare: '',
+          year: '',
+          value: '',
+        },
       },
     }
   },
@@ -77,7 +84,11 @@ export default {
     },
     showTooltip(event, value, gare, year) {
       if (!value) return
-      this.tooltip.content = `${gare} (${year}) : ${value.toLocaleString()} passagers`
+      this.tooltip.content = {
+        gare,
+        year,
+        value: value.toLocaleString(),
+      }
       this.tooltip.visible = true
       this.tooltip.x = event.clientX + 10
       this.tooltip.y = event.clientY + 10
@@ -100,38 +111,33 @@ export default {
   background-color: white;
 }
 
+.heatmap-wrapper {
+  display: flex;
+  justify-content: flex-end; /* Aligner à droite */
+  align-items: center; /* ✅ Centrer verticalement */
+  min-height: 100vh; /* ✅ Prend toute la hauteur de l'écran */
+  width: 100%;
+  padding-right: 2rem;
+}
+
 .heatmap {
   font-family: var(--txt-font-display);
   padding: 1.5rem;
-}
-
-.legend {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  font-size: 0.9rem;
-  margin-bottom: 1.5rem;
-}
-
-.legend-bar {
-  flex-grow: 1;
-  height: 1rem;
-  min-width: 8rem;
-  background: linear-gradient(to right, rgb(255, 230, 230), rgb(230, 0, 0));
-  border-radius: 0.5rem;
+  width: fit-content;
 }
 
 .heatmap-grid {
   display: grid;
   grid-template-columns: 10rem repeat(5, 1fr);
-  gap: 1rem;
+  gap: 1.2rem;
   align-items: center;
+  margin-bottom: 2rem;
 }
 
 .header-cell {
   font-weight: bold;
   text-align: center;
-  padding: 0.5rem;
+  padding: 1.5rem;
   font-size: 0.95rem;
 }
 
@@ -153,16 +159,40 @@ export default {
   cursor: pointer;
 }
 
+.legend {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 0.9rem;
+  margin-top: 1.5rem;
+}
+
+.legend-bar {
+  flex-grow: 1;
+  height: 1.5rem;
+  min-width: 8rem;
+  background: linear-gradient(to right, rgb(255, 230, 230), rgb(230, 0, 0));
+  border-radius: 0.5rem;
+}
+
 .tooltip {
   position: fixed;
-  background-color: #333;
-  color: white;
-  padding: 0.4rem 0.6rem;
-  border-radius: 0.4rem;
-  font-size: 0.85rem;
+  background-color: white;
+  color: black;
+  padding: 0.8rem 1rem;
+  border-radius: 0.5rem;
+  font-size: 0.9rem;
   pointer-events: none;
   white-space: nowrap;
   z-index: 999;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  border: 1px solid #ccc;
+  line-height: 1.4;
+  max-width: 18rem;
+}
+.tooltip-title {
+  font-weight: bold;
+  font-size: 1rem;
+  margin-bottom: 0.2rem;
 }
 </style>
